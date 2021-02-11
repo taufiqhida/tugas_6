@@ -1,0 +1,12 @@
+.box {
+    background: violet;
+    height: 200px;
+    width: 300ox;
+    margin: 20px;
+}
+.box-dua{
+    background: navy;
+    height: 100px;
+    width: 200px;
+    margin: 70px;
+}
